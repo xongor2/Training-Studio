@@ -311,7 +311,6 @@ header {
 .Choose-Program{
     display: flex;
     flex-direction: column;
-    flex-wrap: ;
     align-items: center;
     margin-inline: auto;
     gap: 20px;
