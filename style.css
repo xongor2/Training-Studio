@@ -259,6 +259,8 @@ header {
 }
 
 .btn-hero{
+    width: 278px;
+    height: 60px;
     padding: 15px 30px;
     font-size: 1.25rem;
     background-color: #ed563b;
