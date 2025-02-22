@@ -810,8 +810,10 @@ button:hover {
 
 .footer {
     text-align: center;
-    margin: 50px 0px;
+    padding: 50px 0px;
+    background-color: #7a7a7a;
 }
 .footer span {
     font-size: 0.8rem;
+    color: #ffffff;
 }
